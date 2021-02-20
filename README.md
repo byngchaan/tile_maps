@@ -1,5 +1,5 @@
-# Open restaurants during Covid in Seattle-Bellevue area
-This is tiles of maps with two modified base maps and data point of open restaurants in Seattle-Bellevue area in Washington state.
+# Open restaurants during Covid in Seattle area
+This is tiles of maps with two modified base maps and data point of open restaurants in Seattle area in Washington state.
 ##### Interactive Map Link: https://byngchaan.github.io/tile_maps/
 
 ### Map 1. Basemap
@@ -9,7 +9,7 @@ This is the modified base map created from MapBox studio. Changed simple colors 
 * Zoom Levels : Max Zoom - 13
                 Min Zoom - 11
 
-* Area of focus : Seattle - Bellevue area and surroundin
+* Area of focus : Seattle area and surroundin
 
 ### Map 2. Data Plotted
 ![alt text](/img/openRestaurant.PNG)
@@ -19,7 +19,7 @@ Source - [data](https://data.seattle.gov/dataset/Restaurants-Operating-during-CO
 * Zoom Levels : Max Zoom - 13
                 Min Zoom - 11
 
-* Area of focus : Seattle - Bellevue area and surroundin
+* Area of focus : Seattle area and surroundin
 
 ### Map 3. Open Restaurants during Covid-19
 ![alt text](/img/baseRestaurants.PNG)
@@ -28,7 +28,7 @@ This is the map combined data with the first modified base map. The data extract
 * Zoom Levels : Max Zoom - 13
                 Min Zoom - 11
 
-* Area of focus : Seattle - Bellevue area and surroundin
+* Area of focus : Seattle area and surroundin
 
 ### Map 4. Special Theme: Google
 ![alt text](/img/baseGoogle.PNG)
@@ -37,4 +37,4 @@ Second modified map. Colors inspired by Google's main color which are red, blue,
 * Zoom Levels : Max Zoom - 13
                 Min Zoom - 11
 
-* Area of focus : Seattle - Bellevue area and surroundin
+* Area of focus : Seattle area and surroundin
